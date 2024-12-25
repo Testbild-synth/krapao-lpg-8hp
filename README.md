@@ -3,7 +3,9 @@ This repository contains the files for a narrower version of the great
 [Krapao low pass gate](https://www.youtube.com/watch?v=gdqPUZgIWGM&t=87s) module from voxmachina.
 
 I would say my version is more of a bootleg/edit more than actually changing much here.
-<img src="images/pcbs.png" width="20%" height="20%">
+
+<img src="images/pcbs.png" width="40%" height="40%">
+
 
 ## Status: confirmed working!
 
