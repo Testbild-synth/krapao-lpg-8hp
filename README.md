@@ -4,7 +4,7 @@ This repository contains the files for a narrower version of the great
 
 I would say my version is more of a bootleg/edit more than actually changing much here.
 
-<img src="images/pcbs.png" width="40%" height="40%">
+<img src="images/pcbs.png" width="50%" height="50%">
 
 
 ## Status: confirmed working!
