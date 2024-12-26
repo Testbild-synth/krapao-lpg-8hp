@@ -21,7 +21,8 @@ a simple LED, some shrink tubing and an LDR. There are a ton of tutorials out th
 
 the big switch is a 3dpt, somethings like [this](https://www.musikding.de/Toggleswitch-3PDT-on-off-on). There are a wide variety,
 idk which one is the best but ideally it should be the lowest you can get (because it does stand out a bit further than the thonkiconn jacks which makes the whole module
-tilt at a slight angle). Not sure how voxmachina does this but on mine it's still fine and not that noticable in the final module
+tilt at a slight angle). Not sure how voxmachina does this but on mine it's still fine and not that noticable in the final module.
+the big 3dpt is ON-OFF-ON, the smaller spdt is ON-ON.
 
 ## Build
 Since the build is a bit crammy on 8hp there are a few places where you have to think about what order you solder things in.
